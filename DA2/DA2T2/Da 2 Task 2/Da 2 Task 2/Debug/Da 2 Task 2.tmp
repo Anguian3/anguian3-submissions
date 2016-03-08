@@ -1,0 +1,38 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.57</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\Dominique\Documents\School\CpE 301\DA2\DA2T2\Da 2 Task 2\Da 2 Task 2\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.90\avrasm\inc</DIR>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.90\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Dominique\Documents\School\CpE 301\DA2\DA2T2\Da 2 Task 2\Da 2 Task 2\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.90\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Dominique\Documents\School\CpE 301\DA2\DA2T2\Da 2 Task 2\Da 2 Task 2\Debug\Da 2 Task 2.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Da 2 Task 2.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Da 2 Task 2.map</FILE>
+  <FILE>Da 2 Task 2.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <Start><FILE>C:\Users\Dominique\Documents\School\CpE 301\DA2\DA2T2\Da 2 Task 2\Da 2 Task 2\main.asm</FILE><LINE>15</LINE></Start>
+  <WaveLoop><FILE>C:\Users\Dominique\Documents\School\CpE 301\DA2\DA2T2\Da 2 Task 2\Da 2 Task 2\main.asm</FILE><LINE>32</LINE></WaveLoop>
+  <Delay><FILE>C:\Users\Dominique\Documents\School\CpE 301\DA2\DA2T2\Da 2 Task 2\Da 2 Task 2\main.asm</FILE><LINE>72</LINE></Delay>
+  <Toggle5th><FILE>C:\Users\Dominique\Documents\School\CpE 301\DA2\DA2T2\Da 2 Task 2\Da 2 Task 2\main.asm</FILE><LINE>50</LINE></Toggle5th>
+  <Toggle10th><FILE>C:\Users\Dominique\Documents\School\CpE 301\DA2\DA2T2\Da 2 Task 2\Da 2 Task 2\main.asm</FILE><LINE>54</LINE></Toggle10th>
+  <Toggle15th><FILE>C:\Users\Dominique\Documents\School\CpE 301\DA2\DA2T2\Da 2 Task 2\Da 2 Task 2\main.asm</FILE><LINE>58</LINE></Toggle15th>
+  <Toggle20th><FILE>C:\Users\Dominique\Documents\School\CpE 301\DA2\DA2T2\Da 2 Task 2\Da 2 Task 2\main.asm</FILE><LINE>62</LINE></Toggle20th>
+  <FallingEdge><FILE>C:\Users\Dominique\Documents\School\CpE 301\DA2\DA2T2\Da 2 Task 2\Da 2 Task 2\main.asm</FILE><LINE>46</LINE></FallingEdge>
+  <L1><FILE>C:\Users\Dominique\Documents\School\CpE 301\DA2\DA2T2\Da 2 Task 2\Da 2 Task 2\main.asm</FILE><LINE>78</LINE></L1>
+  <L2><FILE>C:\Users\Dominique\Documents\School\CpE 301\DA2\DA2T2\Da 2 Task 2\Da 2 Task 2\main.asm</FILE><LINE>80</LINE></L2>
+  <L3><FILE>C:\Users\Dominique\Documents\School\CpE 301\DA2\DA2T2\Da 2 Task 2\Da 2 Task 2\main.asm</FILE><LINE>84</LINE></L3>
+ </LABELS>
+</ASSEMBLER_INFO>
